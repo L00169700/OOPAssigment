@@ -1,3 +1,14 @@
+"""
+# 
+# File : L00169700_Q2_File_2.py
+# Created ：24.11.21
+# Author ：R.Lima
+# Version ：v1.0.0
+# Licencing : (C) 2021 R.Lima, LYIT
+# Available under GNU Public License (GPL)
+# Description ：Interaction bethween VM and Host Machine, host machine will be able to see VM info and access items
+"""
+
 from bs4 import BeautifulSoup
 import requests # to get image from the web
 
