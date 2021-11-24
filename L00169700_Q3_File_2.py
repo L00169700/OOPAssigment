@@ -7,7 +7,9 @@
 # Version ：v1.0.0
 # Licencing : (C) 2021 R.Lima, LYIT
 # Available under GNU Public License (GPL)
-# Description ：Using Python on your host (windows) pc scrape the Apache 2 page
+# Description ：Connect to the virtual machine using a python script using the ssh port via 
+# modifying a previous script from the ‘Networking Labs’. Establish that the 
+# connection was successful.
 """
 import paramiko
 import time
