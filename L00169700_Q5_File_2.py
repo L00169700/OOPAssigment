@@ -1,3 +1,14 @@
+"""
+# 
+# File : L00169700_Q5_File_2.py
+# Created ：24.11.21
+# Author ：R.Lima
+# Version ：v1.0.0
+# Licencing : (C) 2021 R.Lima, LYIT
+# Available under GNU Public License (GPL)
+# Description ：Manipulated the given code, create folders and subfolders.
+"""
+
 import paramiko
 import time
 import re
