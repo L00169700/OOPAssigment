@@ -6,7 +6,7 @@
 # Version ：v1.0.0
 # Licencing : (C) 2021 R.Lima, LYIT
 # Available under GNU Public License (GPL)
-# Description ：Interaction bethween VM and Host Machine, host machine will be able to see VM info and access items
+# Description ：Using Python on your host (windows) pc scrape the Apache 2 page
 """
 
 from bs4 import BeautifulSoup
